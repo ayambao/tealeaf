@@ -1,4 +1,4 @@
-puts "Enter Age"
+puts "Enter your Age"
 age = gets.chomp.to_i
 
 if (age >= 5) && (age <= 6)
